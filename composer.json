@@ -1,0 +1,17 @@
+{
+    "name": "xpl/task",
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Xpl\\Task\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "James"
+        }
+    ],
+    "require": {}
+}
